@@ -1,0 +1,3 @@
+https://github.com/universome/HDTF/blob/8c402f412953c77771b5c4ae03dac6dc6bdb95e2/download.py#L168 这一行改为 video_selection = f"best[ext={video_format}]"
+
+参考 https://github.com/MRzzm/HDTF/issues/1#issuecomment-1016206499 ，可以一起下载音频数据
